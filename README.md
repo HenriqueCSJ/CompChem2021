@@ -6,7 +6,7 @@
 ---
 This repository was buld to help you getting **[NCIPLOT 4]([juliacontrerasgarcia/nciplot: Program for revealing non-covalent interactions (github.com)](https://github.com/juliacontrerasgarcia/nciplot))** running on your Windows computer as a requirement for Professor Julia Contreras-García's mini-course. For that we'll use Cygwin.
 
-1. Right-click `setup-x86_64.exe` above and select "Save link as" to download Cygwin for Windows 64 bit. ⚠️ Din't worry, it is not a virus. If yoy receive a complain from Windows just allow it to download anyways. ⚠️
+1. Right-click `setup-x86_64.exe` above and select "Save link as" to download Cygwin for Windows 64 bit. ⚠️ Don't worry, it is not a virus. If you receive a complain from Windows just allow it to download anyways. ⚠️
   
 2. Click [HERE ](https://raw.githubusercontent.com/HenriqueCSJ/CompChem2021/main/packagelist.txt)and then right-click anywhere on the screen to select "Save as".
   
