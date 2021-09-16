@@ -90,11 +90,14 @@ terminfo-extra
 tzcode
 tzdata
 util-linux
+vim
+vim-common
 vim-minimal
 w32api-headers
 w32api-runtime
 which
 windows-default-manifest
+xxd
 xz
 zlib0
 zstd
