@@ -13,7 +13,7 @@ We have a [short video here](https://vimeo.com/607073971) showing all steps! (~ 
 2. Click [HERE ](https://raw.githubusercontent.com/HenriqueCSJ/CompChem2021/main/packagelist.txt) and then right-click anywhere on the screen to select "Save as" to get the packages list. You'll need it later. ;-)
   
 
-Make sure that `setup-x86_64.exe` and `packagelist` are in the same folder! Do a double click on the Cygwin installer to get the basics installed. Don't change anything and just click NEXT during the install proccess. Cygwin will ask you for a site to download the packages. `http://mirrors.kernel.org` is a good and fast choice but any option should work. After selecting a download site keep clicking next untill Cygwin finishes. That gives you a functioning Linux environment on your windows.
+Make sure that `setup-x86_64.exe` and `packagelist.txt` are in the same folder! Do a double click on the Cygwin installer to get the basics installed. Don't change anything and just click NEXT during the install proccess. Cygwin will ask you for a site to download the packages. `http://mirrors.kernel.org` is a good and fast choice but any option should work. After selecting a download site keep clicking next untill Cygwin finishes. That gives you a functioning Linux environment on your windows.
 
 Now open your new Cygwin terminal and go to the folder where you downloaded the previous files. As an example:
 
