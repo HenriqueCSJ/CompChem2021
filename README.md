@@ -36,7 +36,7 @@ cd
 Get the install script, running this on your Cygwin terminal:
 
 ```bash
-wget https://github.com/HenriqueCSJ/CompChem2021/blob/main/install_nciplot.sh
+wget https://raw.githubusercontent.com/HenriqueCSJ/CompChem2021/main/install_nciplot.sh
 ```
 
 Run the script:
