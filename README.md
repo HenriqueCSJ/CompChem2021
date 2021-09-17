@@ -13,10 +13,16 @@ This repository was buld to help you getting **[NCIPLOT 4]([juliacontrerasgarcia
 3. Right-click `install_nciplot.sh` above to download the install script and select "Save link as" to download
   
 
-Make sure that `setup-x86_64.exe` and `packagelist` are in the same folder! Do a double click on the Cygwin installer. Now go to that folder with any windows terminal and run:
+Make sure that `setup-x86_64.exe` and `packagelist` are in the same folder!
+
+Do a double click on the Cygwin installer. Don't change anything and just click NEXT during the install proccess.
+
+Cygwin will ask you for a site to download the packages. `http://mirrors.kernel.org` is a good and fast choice but any option should work. After selecting a download site keep clicking next untill Cygwin finishes. That gives you a functioning Linux environment on your windows.
+
+Now go to that same folder with any windows terminal and run:
 
 ```bash
-./setup-x86_64 -P `awk 'NR==1{printf \$1}{printf ",%s", \$1}' packagelist.txt`
+.\setup-x86_64 -P `awk 'NR==1{printf \$1}{printf ",%s", \$1}' .\packagelist.txt`
 ```
 
 This will install Cygwin for you with all the required packages (~ 700 MB).
