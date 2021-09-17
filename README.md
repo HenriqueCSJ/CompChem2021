@@ -46,6 +46,7 @@ Run the script:
 ```bash
 bash install_nciplot.sh
 ```
+Close the Cygwin terminal to reload everything. 
 
 Voilà! Now you have NCIPLOT 4 installed. Just close tour Cygwin terminal and reopen it.
 
@@ -54,3 +55,6 @@ Test NCIPLOT by just typing the command:
 ```bash
 nciplot
 ```
+
+---
+You can navigate through your files using Windows by just going to **C:\cygwin64\home\XXXXXXX**, where **XXXXXXX** is your username.
