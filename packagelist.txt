@@ -20,6 +20,7 @@ gawk
 gcc-core
 gcc-fortran
 getent
+git
 gnupg
 grep
 groff
