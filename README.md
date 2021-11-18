@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="http://ppgq-uff.com.br/wp-content/uploads/2021/09/LOGO-PGQ-UFF-COLORIDO.png">
+  <img width="200" src="http://compchem.uff.br/assets/images/logo.jpg">
 </p>
 
 # CompChem 2021 - Universidade Federal Fluminense
